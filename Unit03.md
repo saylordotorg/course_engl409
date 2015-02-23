@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL409: Dante"
+course_description: "A detailed introduction to the life and historical and cultural contexts of the Italian poet Dante Alighieri, including a close examination of his masterpiece The Divine Comedy."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Purgatorio** <span id="3"></span> 
 *We will continue our critical study of Dante by looking at the second
 section of* The Divine Comedy*, titled* The Purgatorio*.  In* The

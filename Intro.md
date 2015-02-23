@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL409: Dante"
+course_description: "A detailed introduction to the life and historical and cultural contexts of the Italian poet Dante Alighieri, including a close examination of his masterpiece The Divine Comedy."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL409: Dante"
 ------------------------------------
 

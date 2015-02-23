@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL409: Dante"
+course_description: "A detailed introduction to the life and historical and cultural contexts of the Italian poet Dante Alighieri, including a close examination of his masterpiece The Divine Comedy."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Inferno** <span id="2"></span> 
 *In this unit, we will start to work closely with Dante’s* The Divine
 Comedy*.  The text consists of three books, known as* The Inferno*,* The

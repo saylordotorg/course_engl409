@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL409: Dante"
+course_description: "A detailed introduction to the life and historical and cultural contexts of the Italian poet Dante Alighieri, including a close examination of his masterpiece The Divine Comedy."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Paradiso** <span id="4"></span> 
 *We will conclude the course with the final section of* The Divine
 Comedy*, in which Beatrice guides the poet through spheres of heaven,

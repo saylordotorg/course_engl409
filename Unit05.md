@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL409: Dante"
+course_description: "A detailed introduction to the life and historical and cultural contexts of the Italian poet Dante Alighieri, including a close examination of his masterpiece The Divine Comedy."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Final Exam** <span id="5"></span> 
 -   **Final Exam: The Saylor Foundation's "ENGL409 Final Exam"**
     Link: The Saylor Foundation's "[ENGL409 Final
