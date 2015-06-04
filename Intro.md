@@ -96,3 +96,10 @@ following materials:
     original version can be found
     [here](http://oyc.yale.edu/italian-language-and-literature/dante-in-translation/).
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/engl409/Unit01/)
+- [Unit 2](https://legacy.saylor.org/engl409/Unit02/)
+- [Unit 3](https://legacy.saylor.org/engl409/Unit03/)
+- [Unit 4](https://legacy.saylor.org/engl409/Unit04/)
+- [Unit 5](https://legacy.saylor.org/engl409/Unit05/)
