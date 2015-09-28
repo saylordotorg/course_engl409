@@ -113,3 +113,4 @@ following materials:
 - [Unit 3](https://legacy.saylor.org/engl409/Unit03/)
 - [Unit 4](https://legacy.saylor.org/engl409/Unit04/)
 - [Unit 5](https://legacy.saylor.org/engl409/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL409/ENGL409-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL409/ENGL409-FinalExam-Answers.html)
