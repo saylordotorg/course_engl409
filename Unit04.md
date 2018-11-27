@@ -103,7 +103,7 @@ id="4.1.2"></span> 
 id="4.1.3"></span> 
 -   **Reading: Catholic Encyclopedia’s “Angels”**
     Link: *Catholic Encyclopedia*’s
-    [“Angels”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.1.3.pdf)
+    [“Angels”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.1.3.pdf)
     (PDF)  
         
      Instructions: Please read the linked encyclopedia entry on
@@ -126,7 +126,7 @@ id="4.1.3"></span> 
     Books](http://books.google.com/books?id=F4IMAAAAIAAJ&pg=PR30&dq=Dante%25E2%2580%2599s+De+Monarchia&hl=en&ei=Ts6XTNLBF8X_lgf8j9nTBQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC8Q6AEwAQ#v=onepage&q=Dante%E2%80%99s%20De%20Monarchia&f=false)  
         
      Catholic *Encyclopedia*’s [“Unum
-    Sanctum”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.1.4.pdf)
+    Sanctum”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.1.4.pdf)
     (PDF)  
         
      Instructions: From Dante’s *De Monarchia*, please read the
@@ -190,7 +190,7 @@ id="4.1.3"></span> 
 **4.1.6 The Influence of Cicero** <span id="4.1.6"></span> 
 -   **Reading: Dante Alighieri on the Web’s “Dante and Cicero”**
     Link: Dante Alighieri on the Web’s [“Dante and
-    Cicero”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.1.6.pdf)
+    Cicero”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.1.6.pdf)
     (PDF)  
         
      Instructions: Please read this selection on Cicero’s influence on
@@ -241,7 +241,7 @@ id="4.1.3"></span> 
 **4.2.1 First Sphere: The Moon** <span id="4.2.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Moon”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    [“Moon”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.1.pdf)
+    [“Moon”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.1.pdf)
     (PDF)  
         
      Instructions: Please read the entire discussion linked here, which
@@ -256,7 +256,7 @@ id="4.1.3"></span> 
 **4.2.2 Second Sphere: Mercury** <span id="4.2.2"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Mercury”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    [“Mercury”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.2.pdf)
+    [“Mercury”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.2.pdf)
     (PDF)  
         
      Instructions: Read this discussion of the second sphere, which
@@ -271,7 +271,7 @@ id="4.1.3"></span> 
 **4.2.3 Third Sphere: Venus** <span id="4.2.3"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Venus”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    ["Venus"](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.3.pdf)(PDF)  
+    ["Venus"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.3.pdf)(PDF)  
         
      Instructions: Please read the entire section linked here for a
     review of the third sphere, including the people and themes that
@@ -286,7 +286,7 @@ id="4.1.3"></span> 
 **4.2.4 Fourth Sphere: The Sun** <span id="4.2.4"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Sun”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    [“Sun”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.4.pdf)
+    [“Sun”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.4.pdf)
     (PDF)  
         
      Instructions: Please read the information linked here for a review
@@ -320,7 +320,7 @@ id="4.1.3"></span> 
 **4.2.5 Fifth Sphere: Mars** <span id="4.2.5"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Mars”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    [“Mars”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.5.pdf)
+    [“Mars”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.5.pdf)
     (PDF)  
         
      Instructions: Please read all of the information on the fifth
@@ -356,7 +356,7 @@ id="4.1.3"></span> 
 **4.2.6 Sixth Sphere: Jupiter** <span id="4.2.6"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Jupiter”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    [“Jupiter”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.6.pdf)
+    [“Jupiter”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.6.pdf)
     (PDF)  
         
      Instructions: Please read this entry on the sixth sphere.  
@@ -392,7 +392,7 @@ id="4.1.3"></span> 
 **4.2.7 Seventh Sphere: Saturn** <span id="4.2.7"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Saturn”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    ["Saturn"](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.7.pdf)
+    ["Saturn"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.7.pdf)
     (PDF)  
         
      Instructions: Read the entirety of the section on the seventh
@@ -408,7 +408,7 @@ id="4.1.3"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Fixed
     Stars”**
     Link: University of Texas at Austin: Guy P. Raffa’s ["Fixed
-    Stars"](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.8.pdf)
+    Stars"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.8.pdf)
     (PDF)  
         
      Instructions: Read the entirety of the section linked here on the
@@ -452,7 +452,7 @@ id="4.1.3"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Primum
     Mobile”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Primum
-    Mobile”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.9.pdf)
+    Mobile”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.9.pdf)
     (PDF)  
         
      Instructions: Read the information on the themes and figures in the
@@ -495,7 +495,7 @@ id="4.1.3"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s
     “Empyrean”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    [“Empyrean”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.2.10.pdf)
+    [“Empyrean”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.2.10.pdf)
     (PDF)  
         
      Instructions: Read the review of the section on the empyrean linked
@@ -614,7 +614,7 @@ id="4.3.3"></span> 
 -   **Reading: Stony Brook Dante Project’s “Introduction to The
     Paradiso”**
     Link: Stony Brook Dante Project’s [“Introduction to *The
-    Paradiso*”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.3.6.pdf)
+    Paradiso*”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.3.6.pdf)
     (PDF)  
         
      Instructions: Please read the introduction to the text linked here,
@@ -633,7 +633,7 @@ id="4.3.3"></span> 
 id="4.3.7"></span> 
 -   **Reading: Greatdante.net’s “Divina Comedia”**
     Link: Greatdante.net’s [“Divina
-    Comedia”](http://www.saylor.org/site/wp-content/uploads/2012/07/Engl4094.3.7.pdf)
+    Comedia”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4094.3.7.pdf)
     (PDF)  
         
      Instructions: Please read this short introduction to *The Divine
