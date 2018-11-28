@@ -56,7 +56,7 @@ id="3.1"></span> 
 **3.1.1 Traditional Conceptions of Purgatory** <span id="3.1.1"></span> 
 -   **Reading: Catholic Encyclopedia’s “Purgatory”**
     Link: *Catholic Encyclopedia*’s
-    [“Purgatory”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.1.1.pdf)
+    [“Purgatory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.1.1.pdf)
     (PDF)  
         
      Instructions: For a discussion of the traditional idea of
@@ -91,7 +91,7 @@ id="3.1"></span> 
 -   **Reading: Stony Brook Dante Project’s “Introduction to The
     Purgatorio”**
     Link: Stony Brook Dante Project’s [“Introduction to *The
-    Purgatorio*”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.1.3.pdf)
+    Purgatorio*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.1.3.pdf)
     (PDF)  
         
      Instructions: Please read the introduction to the text linked here,
@@ -138,9 +138,9 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s
     “Ante-Purgatory” and “Valley of Rulers”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    ["Ante-Purgatory"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.1.pdf)
+    ["Ante-Purgatory"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.1.pdf)
     (PDF) and ["Valley of
-    Rulers"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.12.pdf)
+    Rulers"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.12.pdf)
     (PDF)  
         
      Instructions: Please read both short sections linked here, which
@@ -179,7 +179,7 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Terrace 1:
     Pride”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Terrace 1:
-    Pride”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.2.pdf)
+    Pride”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.2.pdf)
     (PDF)  
         
      Instructions: Read the information linked here for a discussion of
@@ -194,7 +194,7 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Terrace 2:
     Envy”**
     Link: University of Texas at Austin: Guy P. Raffa’s ["Terrace 2:
-    Envy"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.3.pdf)
+    Envy"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.3.pdf)
     (PDF)  
         
      Instructions: Please read the information linked here about the
@@ -209,7 +209,7 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Terrace 3:
     Wrath”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Terrace 3:
-    Wrath”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.4.pdf)
+    Wrath”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.4.pdf)
     (PDF)  
         
      Instructions: Please read the information here about the third
@@ -246,7 +246,7 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Terrace 4:
     Sloth”**
     Link: University of Texas at Austin: Guy P. Raffa’s ["Terrace 4:
-    Sloth"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.5.pdf)
+    Sloth"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.5.pdf)
     (PDF)  
         
      Instructions: Please read this section on the fourth terrace for
@@ -296,7 +296,7 @@ id="3.1"></span> 
     Avarice and Prodigality”**
     Link: University of Texas at Austin: Guy P. Raffa’s ["Terrace 5:
     Avarice and
-    Prodigality"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.6.pdf)
+    Prodigality"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.6.pdf)
     (PDF)  
         
      Instructions: Read the information linked here on the fifth
@@ -311,7 +311,7 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Terrace 6:
     Gluttony”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Terrace 6:
-    Gluttony”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.7.pdf)
+    Gluttony”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.7.pdf)
     (PDF)  
         
      Instructions: Read the information linked here in its entirety for
@@ -326,7 +326,7 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Terrace 7:
     Lust”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Terrace 7:
-    Lust”](http://danteworlds.laits.utexas.edu/purgatory/09lust.html)[](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.8.pdf)(PDF)  
+    Lust”](http://danteworlds.laits.utexas.edu/purgatory/09lust.html)[](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.8.pdf)(PDF)  
         
      Instructions: Please read this section for more about the themes in
     the seventh terrace.  
@@ -362,7 +362,7 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s
     “Terrestrial Paradise”**
     Link: University of Texas at Austin: Guy P. Raffa’s ["Terrestrial
-    Paradise"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.2.9.pdf)
+    Paradise"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.2.9.pdf)
     (PDF)  
         
      Instructions: Please read the section linked here, which focuses on
@@ -413,9 +413,9 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Virtues”
     and “Sins”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    [“Virtues”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.3.1.pdf)
+    [“Virtues”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.3.1.pdf)
     (PDF) and
-    [“Sins”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.3.12.pdf)
+    [“Sins”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.3.12.pdf)
     (PDF)  
         
      Instructions: Please read this short commentary on the
@@ -497,9 +497,9 @@ id="3.1"></span> 
 -   **Reading: University of Texas at Austin: Dante World’s “Dream of
     Eagle” and “Dream of Witch”**
     Link: University of Texas at Austin: Dante World’s [“Dream of
-    Eagle”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.3.6.pdf)
+    Eagle”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.3.6.pdf)
     (PDF) and [“Dream of
-    Witch”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4093.3.62.pdf)
+    Witch”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4093.3.62.pdf)
     (PDF)  
         
      Instructions: Please read the two brief entries linked here, which

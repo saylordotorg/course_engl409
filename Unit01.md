@@ -41,7 +41,7 @@ Upon successful completion of this unit, students will be able to:
 **1.1.1 Biography** <span id="1.1.1"></span> 
 -   **Reading: Catholic Encyclopedia’s “Dante Alighieri”**
     Link: *Catholic Encyclopedia*’s ["Dante
-    Alighieri"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4091.1.1.pdf)
+    Alighieri"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4091.1.1.pdf)
     (PDF)  
         
      Instructions: Please read the encyclopedia entry linked here for an
@@ -85,7 +85,7 @@ Upon successful completion of this unit, students will be able to:
 **1.1.4 Professional Career** <span id="1.1.4"></span> 
 -   **Reading: Dante Alighieri on the Web’s “His Life”**
     Link: Dante Alighieri on the Web’s [“His
-    Life”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4091.1.4.pdf)(PDF)  
+    Life”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4091.1.4.pdf)(PDF)  
         
      Instructions: Please read the short page linked here for a
     discussion of Dante’s ill-fated political career.  
@@ -254,7 +254,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Sweet New
     Style”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Sweet New
-    Style”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4091.2.6.pdf)
+    Style”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4091.2.6.pdf)
     (PDF)  
         
      Instructions: Please read the short definition linked here for more
@@ -397,7 +397,7 @@ Upon successful completion of this unit, students will be able to:
 <span id="1.4.4"></span> 
 -   **Reading: Catholic Encyclopedia’s “Humanism”**
     Link: *Catholic Encyclopedia*’s
-    [“Humanism”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4091.4.4.pdf)
+    [“Humanism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4091.4.4.pdf)
     (PDF)  
         
      Instructions: Please read the entry on humanism for a discussion of
