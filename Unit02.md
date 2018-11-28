@@ -183,9 +183,9 @@ Representation of Florence** <span id="2.2.1"></span> 
     Cantos 1-2” and “Gate of Hell, Canto 3”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Dark Wood,
     Cantos
-    1-2”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.11.pdf)
+    1-2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.11.pdf)
     (PDF) and [“Gate of Hell, Canto
-    3”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.12.pdf)
+    3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.12.pdf)
     (PDF)  
         
      Instructions: Please read both sections of the overview of *The
@@ -223,7 +223,7 @@ Representation of Florence** <span id="2.2.1"></span> 
     Canto 4”**
     Link: University of Texas at Austin Guy P. Raffa’s [“Circle One,
     Canto
-    4”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.2.pdf)
+    4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.2.pdf)
     (PDF)  
         
      Instructions: Please read the information linked here, which
@@ -262,7 +262,7 @@ Representation of Florence** <span id="2.2.1"></span> 
     Canto 5”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Circle 2,
     Canto
-    5”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.3.pdf)
+    5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.3.pdf)
     (PDF)  
         
      Instructions: Please read the entirety of this section, which
@@ -277,7 +277,7 @@ Representation of Florence** <span id="2.2.1"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Circle 3,
     Canto 6”**
     Link: University of Texas at Austin Guy P. Raffa’s [“Circle 3, Canto
-    6”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.4.pdf)
+    6”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.4.pdf)
     (PDF)  
         
      Instructions: Read the entirety of this section on the third
@@ -293,7 +293,7 @@ Representation of Florence** <span id="2.2.1"></span> 
     Canto 7”**
     Link: University of Texas at Austin: Guy P. Raffa’s ["Circle 4,
     Canto
-    7"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.5.pdf)
+    7"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.5.pdf)
     (PDF)  
         
      Instructions: Please read all the information linked here about the
@@ -309,7 +309,7 @@ Representation of Florence** <span id="2.2.1"></span> 
     Cantos 7-9”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Circle 5,
     Cantos
-    7-9”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.6.pdf)
+    7-9”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.6.pdf)
     (PDF)  
         
      Instructions: Please read all of the information on this section
@@ -347,7 +347,7 @@ Representation of Florence** <span id="2.2.1"></span> 
     Canto 10”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Circle 6,
     Canto
-    10”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.7.pdf) (PDF)  
+    10”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.7.pdf) (PDF)  
         
      Instructions: Please read the section linked here in its entirety,
     which includes an overview of the important themes, people, and
@@ -363,7 +363,7 @@ Representation of Florence** <span id="2.2.1"></span> 
     Cantos 12-17”**
     Link: University of Texas at Austin: Guy P. Raffa’s ["Circle 7,
     Cantos
-    12-17"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.8.pdf) (PDF)  
+    12-17"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.8.pdf) (PDF)  
         
      Instructions: Please read the entire section linked here for an
     overview of the seventh circle.  
@@ -401,7 +401,7 @@ Representation of Florence** <span id="2.2.1"></span> 
     Subcircles 7-10, Cantos 24-30”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Circle 8,
     Subcircles 7-10, Cantos
-    24-30”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.9.pdf)
+    24-30”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.9.pdf)
     (PDF)  
         
      Instructions: Please read the section linked here for more about
@@ -440,7 +440,7 @@ Representation of Florence** <span id="2.2.1"></span> 
     Cantos 31-34”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Circle 9,
     Cantos
-    31-34”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.2.10.pdf)
+    31-34”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.2.10.pdf)
     (PDF)  
         
      Instructions: Please read all the information linked here on the
@@ -486,7 +486,7 @@ id="2.3.3"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s “Last
     Judgment”**
     Link: University of Texas at Austin: Guy P. Raffa’s [“Last
-    Judgment”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.3.3.pdf)
+    Judgment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.3.3.pdf)
     (PDF)  
         
      Instructions: Please read the short entry on the “last judgment”
@@ -539,7 +539,7 @@ id="2.3.6"></span> 
 -   **Reading: University of Texas at Austin: Guy P. Raffa’s
     “Contrapasso”**
     Link: University of Texas at Austin: Guy P. Raffa’s
-    [“Contrapasso”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.3.6.pdf)
+    [“Contrapasso”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.3.6.pdf)
     (PDF)  
         
      Instructions: Please read this short definition of “contrapasso,”
@@ -649,7 +649,7 @@ id="2.4.3"></span> 
 -   **Reading: Stony Brook Dante Project’s “Introduction to The
     Inferno”**
     Link: Stony Brook Dante Project’s [“Introduction to *The
-    Inferno*”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Engl4092.4.3.pdf)
+    Inferno*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Engl4092.4.3.pdf)
     (PDF)  
         
      Instructions: Please read the introduction to the text linked here,
